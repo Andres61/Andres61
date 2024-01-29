@@ -1,9 +1,55 @@
 # 💫 About Me:
-¡Saludos desde Colombia! 🌎 Soy un entusiasta programador de 30 años de edad, inmerso en el emocionante mundo del desarrollo. Mi experiencia abarca diversos lenguajes, incluyendo Java, JavaScript, HTML5, y CSS3. Además, tengo experiencia sólida en el uso de herramientas como Spring Boot para llevar mis proyectos al siguiente nivel.<br><br>Con una sólida base técnica y una pasión por la resolución creativa de problemas, me considero un aprendiz constante, siempre ansioso por adquirir nuevas habilidades y enfrentar desafíos innovadores. Mi objetivo es destacar entre los demás, contribuir significativamente a proyectos innovadores y crecer de manera colaborativa en el fascinante campo de la programación.<br><br>Mi lema es aprender, aplicar y avanzar. Además, poseo un nivel intermedio de inglés que me permite comunicarme efectivamente en un entorno profesional.<br><br>Estoy emocionado por la oportunidad de participar en proyectos desafiantes y colaborar con equipos visionarios. Si buscas a alguien con iniciativa, motivación y habilidades técnicas sólidas, ¡soy tu candidato ideal!<br><br>¡Hablemos de cómo podemos trabajar juntos para alcanzar nuevos horizontes tecnológicos! 🚀
+¡Saludos desde Colombia! 🌎  Soy un  programador con amplios conocimientos en el desarrollo de software. Me considero un aprendiz constante, siempre dispuesto a adquirir nuevas habilidades y afrontar nuevos retos.
+
+Mis habilidades:
+
+- Lenguajes de programación: Java, JavaScript, HTML5, CSS3
+
+- Herramientas: Spring Boot, Git, Agile
+
+ -Habilidades blandas: Resolución de problemas, trabajo en equipo, comunicación.
+
+
+Certificaciones:
+
+Desarrollador web - UdeA 📃 (https://mb.auco.ai/download/?document=U2FsdGVkX1%2F6hdK4MZuB60Ng2lnTst1hbIJ%2BmRt44GM%3D&company=6542af2b23441bbeaef8d3f6)
+Java fundamental - Oracle 📃 
+Java fundations -  Oracle 📃 
+Logica en programacion: Sumergete en la programacion con Java Script - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-sumergete-programacion-javascript/certificate)
+Logica en programacion: Explorar Listas y funciones - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-explorar-funciones-listas/certificate)
+HTML y CSS3 parte 1: Mi primera pagina web - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-primera-pagina-web/certificate)
+HTML y CSS3 parte 2: Posicionamiento, listas y navegacion - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-posicionamiento-listas-navegacion/certificate)
+
+
+Mi objetivo:
+
+Destacar como programador y contribuir significativamente a proyectos innovadores. Busco un entorno donde pueda aprender, crecer y colaborar con un equipo talentoso.
+
+
+Lo que me diferencia:
+
+Mi pasión por la programación: Me encanta lo que hago y siempre estoy buscando nuevas formas de mejorar mis habilidades.
+
+Mi capacidad de aprendizaje rápido: Soy capaz de aprender nuevas tecnologías rápidamente y aplicarlas a mi trabajo.
+
+Mi actitud proactiva: Soy un individuo con iniciativa y motivación que busca constantemente nuevas oportunidades.
+
+Mi lema:
+Aprender, aplicar y avanzar.
+
+Idiomas:
+Español (nativo)
+Inglés (intermedio) estudiando actualmente
+
+Estoy emocionado por participar en proyectos desafiantes y colaborar con equipos visionarios. Aprender y crecer profesionalmente. Aportar mi experiencia y habilidades a un equipo talentoso.
+
+Si buscas a alguien con mi perfil, no dudes en contactarme. Estaré a disposición de conversar y poder demostrar todo mi potencial y conocimiento.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres61/) 
+
+[![WhatsApp](https://w.app/3053291576)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
