@@ -1,7 +1,9 @@
 # 💫 About Me:
 ¡Saludos desde Colombia! 🌎  Soy un  programador con amplios conocimientos en el desarrollo de software. Me considero un aprendiz constante, siempre dispuesto a adquirir nuevas habilidades y afrontar nuevos retos.
 
-Mis habilidades:
+
+
+**Mis habilidades**:
 
 - Lenguajes de programación: Java, JavaScript, HTML5, CSS3
 
@@ -10,29 +12,35 @@ Mis habilidades:
  -Habilidades blandas: Resolución de problemas, trabajo en equipo, comunicación.
 
 
-Certificaciones:
-
-Desarrollador web - UdeA 📃 (https://mb.auco.ai/download/?document=U2FsdGVkX1%2F6hdK4MZuB60Ng2lnTst1hbIJ%2BmRt44GM%3D&company=6542af2b23441bbeaef8d3f6)
-
-Java fundamental - Oracle 📃 
-
-Java fundations -  Oracle 📃 
-
-Logica en programacion: Sumergete en la programacion con Java Script - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-sumergete-programacion-javascript/certificate)
-
-Logica en programacion: Explorar Listas y funciones - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-explorar-funciones-listas/certificate)
-
-HTML y CSS3 parte 1: Mi primera pagina web - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-primera-pagina-web/certificate)
-
-HTML y CSS3 parte 2: Posicionamiento, listas y navegacion - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-posicionamiento-listas-navegacion/certificate)
 
 
-Mi objetivo:
+**Certificaciones**:
+
+**Desarrollador web** - UdeA 📃 (https://mb.auco.ai/download/?document=U2FsdGVkX1%2F6hdK4MZuB60Ng2lnTst1hbIJ%2BmRt44GM%3D&company=6542af2b23441bbeaef8d3f6)
+
+**Java fundamental** - Oracle 📃 
+
+**Java fundations** -  Oracle 📃 
+
+**Logica en programacion: Sumergete en la programacion con Java Script** - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-sumergete-programacion-javascript/certificate)
+
+**Logica en programacion: Explorar Listas y funciones** - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/logica-programacion-explorar-funciones-listas/certificate)
+
+**HTML y CSS3 parte 1: Mi primera pagina web** - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-primera-pagina-web/certificate)
+
+**HTML y CSS3 parte 2: Posicionamiento, listas y navegacion** - Alura Latam y Oracle Next Education 📃 (https://app.aluracursos.com/user/y-andresgallego/course/html5-css3-posicionamiento-listas-navegacion/certificate)
+
+
+
+
+**Mi objetivo**:
 
 Destacar como programador y contribuir significativamente a proyectos innovadores. Busco un entorno donde pueda aprender, crecer y colaborar con un equipo talentoso.
 
 
-Lo que me diferencia:
+
+
+**Lo que me diferencia**:
 
 Mi pasión por la programación: Me encanta lo que hago y siempre estoy buscando nuevas formas de mejorar mis habilidades.
 
@@ -40,10 +48,14 @@ Mi capacidad de aprendizaje rápido: Soy capaz de aprender nuevas tecnologías r
 
 Mi actitud proactiva: Soy un individuo con iniciativa y motivación que busca constantemente nuevas oportunidades.
 
-Mi lema:
-Aprender, aplicar y avanzar.
 
-Idiomas:
+
+**Mi lema**:
+*Aprender, aplicar y avanzar*.
+
+
+
+**Idiomas**:
 Español (nativo)
 Inglés (intermedio) estudiando actualmente
 
